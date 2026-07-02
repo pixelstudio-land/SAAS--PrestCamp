@@ -1,0 +1,11 @@
+/* Cores da Marca e Imagem de Fundo - PREST CAMP */
+:root {
+    /* Cores Principais */
+    --primary: #2E7D32;   /* Verde floresta - pisos naturais */
+    --secondary: #1A1A2E; /* Azul escuro noturno */
+    --accent: #25D366;    /* Verde WhatsApp */
+    --white: #ffffff;
+
+    /* Imagem de Fundo da Seção Hero */
+    --bg-hero: url('../assets/fundo.jpg');
+}
